@@ -8,8 +8,8 @@ In this project, I have created an AI based Mouse Controller. First we detect th
 <br>
 <br>
 
+<h4>Packages used: <br>    opencv-python<br>    mediapipe (v4.0.0)<br>    autopy (v4.0.0)<br>    portobuf (v3.20.1)</h4>
 
-
-<h5 style="color:red;">NOTE: USE Python version 3.7.0 as few packages used wont support in higher versions of python.</h5>
+<h5>NOTE: USE Python version 3.7.0 as few packages used wont support in higher versions of python.</h5>
 
 </div>
