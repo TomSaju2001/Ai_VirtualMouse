@@ -9,7 +9,6 @@ In this project, I have created an AI based Mouse Controller. First we detect th
 
 <h5>NOTE: USE Python version 3.7.0 as few packages used wont support in higher versions of python.</h5>
 <br>
-
 <h3>How to run?</h3>
 <ol>
   <li>Clone the repository.</li>
@@ -19,7 +18,7 @@ In this project, I have created an AI based Mouse Controller. First we detect th
   <li>Run.</li>
   <li>Use Ctrl+F2 to Quit.</li>
 </ol>
-
+<br>
 ![Screenshot 1](readmeImg/Screenshot1.png)
 <br>
 ![Screenshot 2](readmeImg/Screenshot2.png)
