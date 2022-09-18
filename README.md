@@ -19,7 +19,8 @@ In this project, I have created an AI based Mouse Controller. First we detect th
   <li>Use Ctrl+F2 to Quit.</li>
 </ol>
 </div>
-
+<br>
 ![Screenshot 1](readmeImg/Screenshot1.png)
+<br>
 <br>
 ![Screenshot 2](readmeImg/Screenshot2.png)
