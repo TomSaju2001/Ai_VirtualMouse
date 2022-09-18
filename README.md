@@ -17,6 +17,8 @@ In this project, I have created an AI based Mouse Controller. First we detect th
   <li>Run.</li>
   <li>Use Ctrl+F2 to Quit.</li>
 </ol>
+  <hr>
+  <h3>Sample Images</h3>
 <img src="./readmeImg/Screenshot1.png">
 <img src="./readmeImg/Screenshot1.png">
 </div>
