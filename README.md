@@ -10,6 +10,6 @@ In this project, I have created an AI based Mouse Controller. First we detect th
 
 
 
-NOTE: USE Python version 3.7.0 as few packages used wont support in higher versions of python.
+<h5 style="color:red;">NOTE: USE Python version 3.7.0 as few packages used wont support in higher versions of python.</h5>
 
 </div>
