@@ -19,6 +19,8 @@ In this project, I have created an AI based Mouse Controller. First we detect th
 </ol>
   <hr>
   <h3>Sample Images</h3>
+  <br>
 <img src="./readmeImg/Screenshot1.png">
+  <br>
 <img src="./readmeImg/Screenshot1.png">
 </div>
