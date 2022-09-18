@@ -21,5 +21,4 @@ In this project, I have created an AI based Mouse Controller. First we detect th
 </div>
 ![Screenshot 1](readmeImg/Screenshot1.png)
 <br>
-<br>
 ![Screenshot 2](readmeImg/Screenshot2.png)
