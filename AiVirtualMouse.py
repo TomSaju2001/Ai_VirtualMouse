@@ -8,7 +8,7 @@ import autopy
 
 widthCamera = 640
 heightCamera = 480
-frameReduction =100
+frameReduction = 100
 smoothening = 7
 
 pTime = 0
@@ -45,7 +45,7 @@ while True:
         # print(x1, y1, x2, y2)  #  For testing
 
     # 3. Check which fingers are up
-    if len(lmList) != 0:
+    if len(lmList):
         fingers = detector.fingersUp()
         # print(fingers)
 
@@ -57,7 +57,7 @@ while True:
         if fingers[1] == 1 and fingers[2] == 0:
             x3 = np.interp(x1, (frameReduction, widthCamera - frameReduction),
                            (0, widthScreen))  # Converting coordinates
-            y3 = np.interp(x1, (frameReduction, heightCamera - frameReduction),
+            y3 = np.interp(y1, (frameReduction, heightCamera - frameReduction),
                            (0, heightScreen))  # Converting coordinates
 
             # 5. Smoothen values to remove jitter and flicker
@@ -82,6 +82,7 @@ while True:
 
                 # Do click
                 autopy.mouse.click()
+
     else:
         fingers = [0, 0, 0, 0, 0]
 
